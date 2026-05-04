@@ -29,9 +29,6 @@ Hoy soy un desarrollador que ama **entender cómo funcionan las cosas por debajo
 ### Fundación Universidad Torcuato Di Tella
 
  **Coordinador en Gestión de Ocupación Académica** (2024 - Presente)
-- Asignación y optimización de espacios académicos para múltiples coordinaciones
-- Resolución de conflictos de disponibilidad y recursos
-- Gestión de base de datos de ocupación y calendarios complejos
 - Automatización de procesos administrativos
   
 **Asistente de Coordinación Académica** (2017 - 2024)
