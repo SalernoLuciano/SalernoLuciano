@@ -220,6 +220,6 @@ No importa el stack exacto - lo importante es **aprender, crecer y resolver prob
 ### ⭐ Mis intereses actuales:
 *Backend Development* • *Arquitectura de Software* • *Clean Code* • *Estructuras de Datos* • *Database Design*
 
-Hecho con ❤️ en Buenos Aires, Argentina
+Hecho en Buenos Aires, Argentina
 
 </div>
